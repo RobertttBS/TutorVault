@@ -84,7 +84,7 @@ The tutor maps it to a subject, extracts 3–7 sub-concepts, and inserts them as
 > Let's go deeper on Compounding
 ```
 
-The tutor reads `Notes/Buffett/复利（Compounding）.md`, opens a Socratic session about a corner you haven't fully grasped, and **appends** a dated `> [!insight]` callout under the frontmatter — the stable body is never overwritten.
+The tutor reads `Notes/Buffett/Compounding.md`, opens a Socratic session about a corner you haven't fully grasped, and **appends** a dated `> [!insight]` callout under the frontmatter — the stable body is never overwritten.
 
 ### Get a quiz
 
@@ -92,7 +92,7 @@ The tutor reads `Notes/Buffett/复利（Compounding）.md`, opens a Socratic ses
 > Quiz me on what I've covered in Linear Algebra
 ```
 
-The tutor pulls questions from the `Socratic 练习题` sections of notes you've marked `[x]`, plus 1–2 cross-topic synthesis questions. Skipping is allowed; skipped items stay `[ ]`.
+The tutor pulls questions from the `Socratic Quiz` sections of notes you've marked `[x]`, plus 1–2 cross-topic synthesis questions. Skipping is allowed; skipped items stay `[ ]`.
 
 ## Designing your own subject from scratch
 
@@ -114,26 +114,26 @@ related:
 last_reviewed: YYYY-MM-DD
 ---
 
-> [!insight] Socratic 對話精華（YYYY-MM-DD）
+> [!insight] Socratic insight (YYYY-MM-DD)
 > <a new distinction or correction from this session>
 
 # <Topic>
 
 > <one-sentence anchor quote, if any>
 
-## 一句话定义 / One-line definition
+## One-line definition
 ...
 
-## 核心要义 / Core Insights
+## Core Insights
 ...
 
-## 典型案例 / Cases
+## Cases
 ...
 
-## 常见误区 / Common Misconceptions
+## Common Misconceptions
 ...
 
-## Socratic 练习题 / Quiz
+## Socratic Quiz
 ...
 ```
 
