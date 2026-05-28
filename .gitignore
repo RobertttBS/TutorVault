@@ -1,0 +1,14 @@
+# macOS
+.DS_Store
+
+# Obsidian — keep config, ignore per-user workspace state
+.obsidian/workspace
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache
+.trash/
+
+# Editors
+.vscode/
+.idea/
+*.swp
