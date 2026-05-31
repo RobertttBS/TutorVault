@@ -61,7 +61,7 @@ last_reviewed: YYYY-MM-DD
 ---
 ```
 
-**Canonical body structure:**
+**Canonical body structure** (template: `Notes/Buffett/复利（Compounding）.md`):
 
 1. `# <Topic>` heading + a one-sentence anchor quote from the source if any.
 2. **一句话定义 / One-line definition** — the irreducible core.
